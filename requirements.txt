@@ -1,0 +1,14 @@
+langchain
+faiss-cpu
+numpy
+sentence-transformers
+langchain-community
+huggingface_hub
+python-dotenv
+langchain_community
+langchain_core
+langchain_huggingface
+pypdf
+langchain-google-genai
+streamlit
+tenacity
